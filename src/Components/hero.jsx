@@ -1,12 +1,12 @@
 import { ReactTyped } from "react-typed";
 const Hero = () => {
   return (
-    <div className="text-white border border-blue-600 border-8">
-      <div className="mt-[-96px] w-full h-screen mx-auto  text-center flex flex-col justify-center">
-        <p className="text-[#00df9a] font-bold p-2">
+    <div className="text-white ">
+      <div className="mt-[-96px] w-full h-screen mx-auto  text-center flex flex-col justify-center ">
+        <p className="text-[#00df9a] font-bold p-2 md:text-2xl ">
           SHOWING WITH DATA ANALYTICS
         </p>
-        <h1 className=" text-4xl md:text-7xl sm:text-6xl font-bold md:py-6 ">
+        <h1 className=" text-4xl md:text-7xl sm:text-6xl font-bold py-4 md:py-6 ">
           GROW WITH DATA
         </h1>
         <div className="md:text-5xl sm:text-4xl text-xl font-bold flex justify-center  pb-4">

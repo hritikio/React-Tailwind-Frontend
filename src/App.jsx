@@ -5,6 +5,7 @@ import Hero from './Components/hero'
 import Analytics from './Components/analytics'
 import Newsletter from './Components/Newsletter'
 import Cards from './Components/Cards'
+import Footer from './Components/Footer'
 
 function App() {
  
@@ -16,6 +17,7 @@ function App() {
       <Analytics />
       <Newsletter />
       <Cards />
+      <Footer />
     </>
   );
 }
