@@ -1,8 +1,8 @@
 import { ReactTyped } from "react-typed";
 const Hero = () => {
   return (
-    <div className="text-white">
-      <div className="mt-[-96px] w-full h-screen mx-auto  text-center flex flex-col justify-center border border-amber-600 border-8">
+    <div className="text-white border border-blue-600 border-8">
+      <div className="mt-[-96px] w-full h-screen mx-auto  text-center flex flex-col justify-center">
         <p className="text-[#00df9a] font-bold p-2">
           SHOWING WITH DATA ANALYTICS
         </p>
@@ -25,7 +25,7 @@ const Hero = () => {
         <button className="p-4 bg-[#00df9a] md:w-[200px] w-[170px] rounded-md font-medium my-6 mx-auto p-2 text-black cursor-pointer  hover:bg-[#00c27a] duration-300">
           Get Started
         </button>
-        hii
+        
       </div>
     </div>
   );
