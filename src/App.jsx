@@ -4,6 +4,7 @@ import Navbar from './Components/navbar'
 import Hero from './Components/hero'
 import Analytics from './Components/analytics'
 import Newsletter from './Components/Newsletter'
+import Cards from './Components/Cards'
 
 function App() {
  
@@ -14,6 +15,7 @@ function App() {
       <Hero />
       <Analytics />
       <Newsletter />
+      <Cards />
     </>
   );
 }
