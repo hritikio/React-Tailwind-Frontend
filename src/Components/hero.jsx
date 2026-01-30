@@ -20,12 +20,14 @@ const Hero = () => {
           />
         </div>
         <div>
-          <p className="text-xl md:text-2xl font-bold text-gray-500">Monitor your data analystics to increase revenue for BTB, BTC & SAAS platforms.</p>
+          <p className="text-xl md:text-2xl font-bold text-gray-500">
+            Monitor your data analystics to increase revenue for BTB, BTC & SAAS
+            platforms.
+          </p>
         </div>
         <button className="p-4 bg-[#00df9a] md:w-[200px] w-[170px] rounded-md font-medium my-6 mx-auto p-2 text-black cursor-pointer  hover:bg-[#00c27a] duration-300">
           Get Started
         </button>
-        
       </div>
     </div>
   );
